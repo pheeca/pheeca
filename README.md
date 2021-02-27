@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Faheem.
-![Hi there 👋. I'm a software developer. Check out my work](https://github.com/pheeca/pheeca/gifntext-gif)
+![Hi there 👋. I'm a software developer. Check out my work](https://raw.githubusercontent.com/pheeca/pheeca/main/gifntext-gif.gif)
 
 <!--
 **pheeca/pheeca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
  You can find me on 
+-->
 ![Faheem's github stats](https://github-readme-stats.vercel.app/api?username=pheeca&theme=tokyonight&show_icons=true)
 
 ---
