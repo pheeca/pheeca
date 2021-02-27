@@ -101,14 +101,13 @@ Here are some ideas to get you started:
 
 [<img align="right" alt="Muhammad Faheem Khan | Pheeca" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://pheeca.com)
 [<img align="right" alt="Muhammad Faheem Khan | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/muhammad-faheem-khan-98057475)
-[<a href="mailto:pheeca@gmail.com"><img align="right" alt="Muhammad Faheem Khan | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/3062/3062634.svg"/></a>](Email)
+[<a href="mailto:pheeca@gmail.com"><img align="right" alt="Muhammad Faheem Khan | Email" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/3062/3062634.svg"/></a>](Email)
 
 <!--
 [<img align="right" alt="Muhammad Faheem Khan | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://pheeca.com)
-[<img align="right" alt="Muhammad Faheem Khan | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />](https://pheeca.com)-->
+[<img align="right" alt="Muhammad Faheem Khan | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />](https://pheeca.com)
 
 <br />
----
-
-<!--https://github.com/Ileriayo/markdown-badges#blog
-https://help.medium.com/hc/en-us/articles/225168028-Using-Medium-->
+https://github.com/Ileriayo/markdown-badges#blog
+https://help.medium.com/hc/en-us/articles/225168028-Using-Medium
+-->
