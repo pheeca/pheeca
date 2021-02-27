@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![Sqlite](https://img.shields.io/badge/-Sqlite-07405e?style=flat-square&logo=sqlite&logoColor=ffffff)
 ![Neo4j](https://img.shields.io/badge/-Neo4j-07405e?style=flat-square&logo=neo4j&logoColor=ffffff)
-![Neo4j](https://img.shields.io/badge/-Neo4j-07405e?style=flat-square&logo=neo4j&logoColor=ffffff)
 #### Back End
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
@@ -67,7 +66,6 @@ Here are some ideas to get you started:
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=Keras&logoColor=ffffff)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-ff6f00?style=flat-square&logo=Tensorflow&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=ffffff)
-![Jupyter-Notebook](https://img.shields.io/badge/-Jupyter-555555?style=flat-square&logo=Jupyter&logoColor=%23E44D27)
 ![Numpy](https://img.shields.io/badge/-numpy-013243?style=flat-square&logo=numpy&logoColor=%23E44D27)
 
 #### Version Control
