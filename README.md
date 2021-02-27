@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  You can find me on 
 -->
-![Faheem's github stats](https://github-readme-stats.vercel.app/api?username=pheeca&theme=tokyonight&show_icons=true)
+
 
 ---
 
@@ -91,12 +91,39 @@ Here are some ideas to get you started:
 
 ### Github Activity ✔:
 
+
 <a href="https://github.com/pheeca">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pheeca&theme=tokyonight" />
-  </a>
-  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pheeca&theme=tokyonight" /></a>
+  <a href="https://github.com/pheeca">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=pheeca&theme=tokyonight&show_icons=true" />
+</a>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
+---
 
 ### Contact with me 📝
 
