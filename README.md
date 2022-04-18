@@ -83,6 +83,7 @@ Here are some ideas to get you started:
 #### For Fun
 ![Blender](https://img.shields.io/badge/-Blender-f5792a?style=flat-square&logo=blender&logoColor=ffffff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-0081CB?style=flat-square&logo=adobe-premiere-pro)
 
 ---
 <br/>
@@ -125,9 +126,9 @@ Here are some ideas to get you started:
 
 ### Contact with me 📝
 
-[<img align="right" alt="Muhammad Faheem Khan | Pheeca" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />](https://pheeca.com)
-[<img align="right" alt="Muhammad Faheem Khan | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/muhammad-faheem-khan-98057475)
-[<a href="mailto:pheeca@gmail.com"><img align="right" alt="Muhammad Faheem Khan | Email" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/3062/3062634.svg"/></a>](Email)
+[<img align="right" alt="Muhammad Faheem Khan | Pheeca" height="30px" src="https://www.pngall.com/wp-content/uploads/4/World-Wide-Web.png" />](https://pheeca.com)
+[<img align="right" alt="Muhammad Faheem Khan | LinkedIn" height="30px" src="https://img.icons8.com/external-justicon-flat-justicon/452/external-linkedin-social-media-justicon-flat-justicon.png"/>](https://www.linkedin.com/in/muhammad-faheem-khan-98057475)
+[<a href="mailto:pheeca@gmail.com"><img align="right" alt="Muhammad Faheem Khan | Email" height="30px" src="https://www.clipartmax.com/png/full/91-913506_computer-icons-email-address-clip-art-icon-email-vector-png.png"/></a>](Email)
 
 <!--
 [<img align="right" alt="Muhammad Faheem Khan | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://pheeca.com)
